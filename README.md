@@ -1,5 +1,3 @@
-# README
-
 ## LiquidityManager Contract
 
 ### Overview
